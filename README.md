@@ -114,3 +114,10 @@ python -m streamlit run app.py
 ## ⭐ Acknowledgement
 
 Built using Python, Scikit-learn, and Streamlit.
+
+
+## 🌐 Live Demo
+
+Check out the live House Price Prediction application:
+
+[🚀 Open House Price Predictor](https://house-price-prediction-using-ml-and-app-xsllepzz42oanx7dsxx4er.streamlit.app/)
